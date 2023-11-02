@@ -17,7 +17,26 @@ function writePassword() {
     var upletters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
     var lowletters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
-    if
+    switch(true){
+      case num == charS == charU == charL:
+         console.log(numbers+specialCharacters+upletters+lowletters)
+      break;
+      case charS:
+          console.log(specialCharacters)
+      break;
+      case charU:
+          console.log(upletters)
+      break;
+      case charL:
+          console.log(lowletters)
+      break;
+      case num:
+          console.log(numbers)
+      break;
+      default:
+          console.log("No requirements selected")
+
+  }
 
   }
   // the #pass word refers to the text area
