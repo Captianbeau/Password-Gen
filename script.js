@@ -55,7 +55,7 @@ function generatePassword() {
 
 function writePassword() {
 
-// the #pass word refers to the text area
+// the #password refers to the text area
   var passwordText = document.querySelector("#password");
   
   var password = generatePassword();
