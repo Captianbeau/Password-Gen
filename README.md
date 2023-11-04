@@ -6,11 +6,12 @@ This is a Password-Generator for employees to use. It makes a randomized passwor
 ## Webpage link
 (link)
 ## Usage
-When you visit the webpage click the “Generate Password” button.  (Screenshot) 
-A prompt will appear asking for a number of characters between 8-128, type in the length you want your password to be and click “Ok”. (screenshot) 
- Four more pop-ups will appear, one at a time, asking what character types to include, for Yes press “Ok” for No press “Cancel”. (screenshot) 
+When you visit the webpage click the “Generate Password” button.  ![Button](./assets/button.png) <br>
+A prompt will appear asking for a number of characters between 8-128, type in the length you want your password to be and click “Ok”. ![Password length prompt](./assets/number-of-characters.png)<br>
+ Four more pop-ups will appear, one at a time, asking what character types to include, for Yes press “Ok” for No press “Cancel”.<br> ![Character Prompt Example](./assets/character-type.png) <br>
  Your password should appear in the text box.
+ ![Text Box Example](./assets/Password-example.png)
 ## Screenshots
-
+![Webpage Image](./assets/webpage.png)
 
 
